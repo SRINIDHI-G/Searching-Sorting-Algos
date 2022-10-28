@@ -21,3 +21,5 @@ public class linearSearch
 }
  
 }
+
+//Adding Time Complexity: O(n)
